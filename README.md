@@ -21,7 +21,7 @@
   <strong>🎯 Open to meaningful projects</strong>
 </p>
 
-## ⚡ At a Glance
+## <img src="https://img.shields.io/badge/%EF%83%89-At%20a%20Glance-2563EB?style=flat-square&logo=fontawesome&logoColor=white" alt="At a Glance">
 
 <table>
   <tr>
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-## 👨‍💻 Profile
+## <img src="https://img.shields.io/badge/%EF%80%87-Profile-06B6D4?style=flat-square&logo=fontawesome&logoColor=white" alt="Profile">
 
 | Area | Details |
 | --- | --- |
@@ -45,7 +45,7 @@
 | Current learning | Scalable backend architecture, secure authentication, and better software design |
 | Collaboration | Open to learning, building, and contributing to useful software projects |
 
-## 🧰 Languages, Frameworks, and Tools
+## <img src="https://img.shields.io/badge/%EF%84%A1-Languages%2C%20Frameworks%20%26%20Tools-7C3AED?style=flat-square&logo=fontawesome&logoColor=white" alt="Languages, Frameworks and Tools">
 
 ### Programming Languages
 
@@ -81,7 +81,7 @@
 
 `Responsive UI` `Component Design` `REST APIs` `CRUD Operations` `Authentication` `Role-Based Access` `Form Validation` `Error Handling` `API Integration` `Git Workflows`
 
-## 💪 Core Skills
+## <img src="https://img.shields.io/badge/%EF%81%9B-Core%20Skills-F59E0B?style=flat-square&logo=fontawesome&logoColor=white" alt="Core Skills">
 
 - **Frontend development:** Responsive layouts, component-based interfaces, forms, client-side interactions, and reusable UI
 - **Backend development:** Express servers, RESTful endpoints, validation, CRUD operations, and API integration
@@ -91,7 +91,7 @@
 - **Problem-solving:** Breaking requirements into features, debugging issues, and improving usability
 - **Project development:** Planning, implementation, version control, deployment, and iterative improvement
 
-## 🧭 How I Build
+## <img src="https://img.shields.io/badge/%EF%84%B5-How%20I%20Build-0EA5E9?style=flat-square&logo=fontawesome&logoColor=white" alt="How I Build">
 
 1. Understand the requirement and define the core features.
 2. Design a clear and responsive user experience.
@@ -99,7 +99,7 @@
 4. Connect APIs and data models with validation and error handling.
 5. Test, refine, document, and deploy the application.
 
-## ✨ What I Build
+## <img src="https://img.shields.io/badge/%EF%82%85-What%20I%20Build-14B8A6?style=flat-square&logo=fontawesome&logoColor=white" alt="What I Build">
 
 <div align="center">
 
@@ -109,7 +109,7 @@
 
 </div>
 
-## 🌟 Selected Work
+## <img src="https://img.shields.io/badge/%EF%91%81-Selected%20Work-EC4899?style=flat-square&logo=fontawesome&logoColor=white" alt="Selected Work">
 
 <table>
   <tr>
@@ -138,7 +138,7 @@
   </tr>
 </table>
 
-## 🚀 Featured Projects
+## <img src="https://img.shields.io/badge/%EF%84%B5-Featured%20Projects-2563EB?style=flat-square&logo=fontawesome&logoColor=white" alt="Featured Projects">
 
 | Project | Description | Technologies |
 | --- | --- | --- |
@@ -151,7 +151,7 @@
 | [Product API](https://github.com/Sajee119/product-api) | A RESTful product management API with CRUD operations, validation, image handling, and scalable architecture. | JavaScript, Node.js |
 | [Student Management System](https://github.com/Sajee119/Student-management-System) | A command-line application for managing students, courses, grades, and academic records. | Python |
 
-### 🌐 Live Projects
+### <img src="https://img.shields.io/badge/%EF%82%9A-Live%20Projects-06B6D4?style=flat-square&logo=fontawesome&logoColor=white" alt="Live Projects">
 
 | Project | Live preview |
 | --- | --- |
@@ -161,7 +161,7 @@
 | [User Management System](https://github.com/Sajee119/Syntecxhub_User_Management_System) | [Open live app](https://syntecxhub-user-management-system-eight.vercel.app) |
 | [Employee Management System](https://github.com/Sajee119/Syntexhub_Employee_Management_System) | [Open live app](https://syntexhub-employee-management-syste.vercel.app) |
 
-## 📌 Other Projects
+## <img src="https://img.shields.io/badge/%EF%81%9A-Other%20Projects-64748B?style=flat-square&logo=fontawesome&logoColor=white" alt="Other Projects">
 
 - [CHAOSVERSE](https://github.com/Sajee119/CHAOSVERSE) — Interactive web experience
 - [Expense Tracker](https://github.com/Sajee119/syntecxhub-expense-tracker-app) — Income, expense, category, budget, and spending insights
@@ -169,7 +169,7 @@
 - [Event-Driven Programming Practical Lab](https://github.com/Sajee119/Event-Driven-Programming-Practical-Lab) — JavaScript event handling and delegation exercises
 - [User Profile Management](https://github.com/Sajee119/User-Profile-Management) — Java-based profile management system
 
-## 🧠 Engineering Mindset
+## <img src="https://img.shields.io/badge/%EF%97%9C-Engineering%20Mindset-8B5CF6?style=flat-square&logo=fontawesome&logoColor=white" alt="Engineering Mindset">
 
 ```text
 Simple interfaces       → Make features easy to understand and use
@@ -179,7 +179,7 @@ Secure access           → Protect authenticated features and user workflows
 Continuous improvement  → Learn from each project and ship better solutions
 ```
 
-## 📚 Currently Exploring
+## <img src="https://img.shields.io/badge/%EF%97%9A-Currently%20Exploring-F97316?style=flat-square&logo=fontawesome&logoColor=white" alt="Currently Exploring">
 
 - Improving backend structure and scalable API design
 - Building more secure authentication and authorization flows
@@ -187,7 +187,7 @@ Continuous improvement  → Learn from each project and ship better solutions
 - Strengthening testing, debugging, documentation, and deployment practices
 - Turning project ideas into complete, useful products
 
-## 🏆 Profile Highlights
+## <img src="https://img.shields.io/badge/%EF%94%88-Profile%20Highlights-EAB308?style=flat-square&logo=fontawesome&logoColor=white" alt="Profile Highlights">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=flat-square" alt="Full-stack development">
@@ -195,22 +195,26 @@ Continuous improvement  → Learn from each project and ship better solutions
   <img src="https://img.shields.io/badge/Approach-Learn%20%7C%20Build%20%7C%20Improve-7C3AED?style=flat-square" alt="Development approach">
 </p>
 
-## 📊 GitHub Activity
+## <img src="https://img.shields.io/badge/%EF%82%9B-GitHub%20Analytics-22C55E?style=flat-square&logo=fontawesome&logoColor=white" alt="GitHub Analytics">
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sajee119&amp;show_icons=true&amp;theme=tokyonight" alt="Sajeepan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajee119&amp;layout=compact&amp;theme=tokyonight" alt="Top programming languages">
+  <a href="https://github.com/Sajee119">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sajee119&show_icons=true&theme=tokyonight" alt="Sajeepan's GitHub statistics">
+  </a>
+  <a href="https://github.com/Sajee119">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajee119&layout=compact&theme=tokyonight" alt="Top programming languages">
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sajee119&amp;theme=tokyonight" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=Sajee119&theme=tokyonight" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&amp;theme=tokyo-night" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&theme=tokyo-night" alt="GitHub activity graph">
 </p>
 
-## 🤝 Connect With Me
+## <img src="https://img.shields.io/badge/%EF%8A%93-Connect%20With%20Me-0F172A?style=flat-square&logo=fontawesome&logoColor=white" alt="Connect With Me">
 
 <p align="center">
   <a href="https://github.com/Sajee119"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
