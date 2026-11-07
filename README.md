@@ -198,16 +198,16 @@ Continuous improvement  → Learn from each project and ship better solutions
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sajee119&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Sajeepan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajee119&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top programming languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sajee119&amp;show_icons=true&amp;theme=tokyonight" alt="Sajeepan's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajee119&amp;layout=compact&amp;theme=tokyonight" alt="Top programming languages">
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sajee119&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=Sajee119&amp;theme=tokyonight" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&amp;theme=tokyo-night" alt="GitHub activity graph">
 </p>
 
 ## 🤝 Connect With Me
