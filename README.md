@@ -203,11 +203,11 @@ Continuous improvement  → Learn from each project and ship better solutions
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajee119&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=Sajee119&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub activity graph">
 </p>
 
 ## 🤝 Connect With Me
