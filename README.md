@@ -1,21 +1,38 @@
-# Hi, I'm Sajeepan 👋
-
-### Aspiring Software Engineer | Full-Stack Developer
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Problem+Solver+and+Continuous+Learner" alt="Typing introduction">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sajeepan&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Sajeepan profile header">
 </p>
 
-I'm an aspiring software engineer from **Sri Lanka** focused on building practical, reliable, and user-friendly software. I enjoy full-stack web development, problem-solving, learning new technologies, and turning ideas into working products. My projects include e-commerce platforms, management systems, REST APIs, productivity tools, games, and responsive web applications.
+<p align="center">
+  <a href="https://github.com/Sajee119"><img src="https://img.shields.io/badge/GitHub-Sajee119-111827?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://sajeepan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel" alt="Portfolio"></a>
+  <a href="https://twitter.com/SSajeepan3492"><img src="https://img.shields.io/badge/X-@SSajeepan3492-111827?style=flat-square&logo=x" alt="X"></a>
+  <img src="https://komarev.com/ghpvc/?username=Sajee119&style=flat-square&color=2563EB&label=Profile+views" alt="Profile views">
+</p>
 
-- 🔭 Currently working on full-stack web applications and interactive projects
-- 🌱 Continuously learning software engineering, backend development, and modern web technologies
-- 💼 Company: **Future designers**
-- 🎯 Goal: Build maintainable software that solves real-world problems
-- 💡 Interests: Web applications, APIs, authentication, dashboards, and UI/UX
-- 🌐 Portfolio: [sajeepan-portfolio.vercel.app](https://sajeepan-portfolio.vercel.app/)
-- 🐦 X/Twitter: [@SSajeepan3492](https://twitter.com/SSajeepan3492)
-- 📍 Based in Sri Lanka
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+useful+web+experiences;Designing+APIs+and+data-driven+systems;Learning%2C+shipping%2C+and+improving" alt="Typing introduction">
+</p>
+
+> I build practical, reliable, and user-friendly software with a focus on full-stack web development, clean interfaces, and maintainable backend systems.
+
+<p align="center">
+  <strong>📍 Sri Lanka</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>💼 Future designers</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🎯 Open to meaningful projects</strong>
+</p>
+
+## ⚡ At a Glance
+
+<table>
+  <tr>
+    <td><strong>🔭 Building</strong><br>Full-stack applications and interactive web projects</td>
+    <td><strong>🌱 Learning</strong><br>Scalable architecture, secure authentication, and better software design</td>
+  </tr>
+  <tr>
+    <td><strong>💡 Interested in</strong><br>APIs, dashboards, e-commerce, UI/UX, and developer tools</td>
+    <td><strong>🤝 Collaboration</strong><br>Useful products, practical solutions, and continuous improvement</td>
+  </tr>
+</table>
 
 ## 👨‍💻 Profile
 
@@ -60,6 +77,10 @@ I'm an aspiring software engineer from **Sri Lanka** focused on building practic
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 
+### Development Practices
+
+`Responsive UI` `Component Design` `REST APIs` `CRUD Operations` `Authentication` `Role-Based Access` `Form Validation` `Error Handling` `API Integration` `Git Workflows`
+
 ## 💪 Core Skills
 
 - **Frontend development:** Responsive layouts, component-based interfaces, forms, client-side interactions, and reusable UI
@@ -70,13 +91,23 @@ I'm an aspiring software engineer from **Sri Lanka** focused on building practic
 - **Problem-solving:** Breaking requirements into features, debugging issues, and improving usability
 - **Project development:** Planning, implementation, version control, deployment, and iterative improvement
 
-## 🔄 Development Workflow
+## 🧭 How I Build
 
 1. Understand the requirement and define the core features.
 2. Design a clear and responsive user experience.
 3. Build reusable frontend components and structured backend services.
 4. Connect APIs and data models with validation and error handling.
 5. Test, refine, document, and deploy the application.
+
+## ✨ What I Build
+
+<div align="center">
+
+| 🌐 Web Apps | 🛒 Business Systems | 🔌 Backend Services |
+| --- | --- | --- |
+| Responsive React interfaces, dashboards, and interactive experiences | E-commerce, user, employee, student, and expense management systems | REST APIs, CRUD services, authentication, validation, and data workflows |
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -99,16 +130,33 @@ I'm an aspiring software engineer from **Sri Lanka** focused on building practic
 - [Event-Driven Programming Practical Lab](https://github.com/Sajee119/Event-Driven-Programming-Practical-Lab) — JavaScript event handling and delegation exercises
 - [User Profile Management](https://github.com/Sajee119/User-Profile-Management) — Java-based profile management system
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-![Sajeepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajee119&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sajee119&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Sajeepan's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajee119&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top programming languages">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajee119&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajee119&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajee119&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+</p>
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sajee119-181717?style=for-the-badge&logo=github)](https://github.com/Sajee119)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel)](https://sajeepan-portfolio.vercel.app/)
-[![X](https://img.shields.io/badge/X-SSajeepan3492-000000?style=for-the-badge&logo=x)](https://twitter.com/SSajeepan3492)
+<p align="center">
+  <a href="https://github.com/Sajee119"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
+  <a href="https://sajeepan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=vercel" alt="Explore portfolio"></a>
+  <a href="https://twitter.com/SSajeepan3492"><img src="https://img.shields.io/badge/X-Connect-000000?style=for-the-badge&logo=x" alt="Connect on X"></a>
+</p>
 
-Thanks for visiting my profile!
+<p align="center">
+  <i>Thanks for visiting my profile. Let's build something useful together.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" alt="Profile footer">
+</p>
