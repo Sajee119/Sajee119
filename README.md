@@ -109,6 +109,35 @@
 
 </div>
 
+## 🌟 Selected Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ E-commerce Platforms</h3>
+      <p>Full-stack shopping experiences with product management, authentication, orders, payments, responsive design, and admin workflows.</p>
+      <a href="https://github.com/Sajee119/my-store">View My Store →</a>
+    </td>
+    <td width="50%">
+      <h3>👥 Management Systems</h3>
+      <p>Data-driven applications for users, employees, students, attendance, salaries, profiles, and role-based administration.</p>
+      <a href="https://github.com/Sajee119/Syntexhub_Employee_Management_System">View Employee System →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Interactive Experiences</h3>
+      <p>Browser games and engaging interfaces with timers, scoring, achievements, streaks, API-powered content, and responsive gameplay.</p>
+      <a href="https://github.com/Sajee119/Banana-Quiz-Game">View Banana Quiz →</a>
+    </td>
+    <td width="50%">
+      <h3>🔗 APIs and Utilities</h3>
+      <p>RESTful services and focused tools that solve practical problems through clear data models, validation, and simple user experiences.</p>
+      <a href="https://github.com/Sajee119/product-api">View Product API →</a>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
@@ -122,6 +151,16 @@
 | [Product API](https://github.com/Sajee119/product-api) | A RESTful product management API with CRUD operations, validation, image handling, and scalable architecture. | JavaScript, Node.js |
 | [Student Management System](https://github.com/Sajee119/Student-management-System) | A command-line application for managing students, courses, grades, and academic records. | Python |
 
+### 🌐 Live Projects
+
+| Project | Live preview |
+| --- | --- |
+| [Portfolio](https://github.com/Sajee119/Portfolio) | [sajeepan-portfolio.vercel.app](https://sajeepan-portfolio.vercel.app/) |
+| [CHAOSVERSE](https://github.com/Sajee119/CHAOSVERSE) | [chaosverse-sajee.vercel.app](https://chaosverse-sajee.vercel.app) |
+| [Expense Tracker](https://github.com/Sajee119/syntecxhub-expense-tracker-app) | [Open live app](https://syntecxhub-expense-tracker-app.vercel.app) |
+| [User Management System](https://github.com/Sajee119/Syntecxhub_User_Management_System) | [Open live app](https://syntecxhub-user-management-system-eight.vercel.app) |
+| [Employee Management System](https://github.com/Sajee119/Syntexhub_Employee_Management_System) | [Open live app](https://syntexhub-employee-management-syste.vercel.app) |
+
 ## 📌 Other Projects
 
 - [CHAOSVERSE](https://github.com/Sajee119/CHAOSVERSE) — Interactive web experience
@@ -129,6 +168,32 @@
 - [Portfolio](https://github.com/Sajee119/Portfolio) — Personal portfolio website
 - [Event-Driven Programming Practical Lab](https://github.com/Sajee119/Event-Driven-Programming-Practical-Lab) — JavaScript event handling and delegation exercises
 - [User Profile Management](https://github.com/Sajee119/User-Profile-Management) — Java-based profile management system
+
+## 🧠 Engineering Mindset
+
+```text
+Simple interfaces       → Make features easy to understand and use
+Reusable components     → Reduce duplication and keep projects maintainable
+Clear APIs              → Keep data flow predictable and integrations reliable
+Secure access           → Protect authenticated features and user workflows
+Continuous improvement  → Learn from each project and ship better solutions
+```
+
+## 📚 Currently Exploring
+
+- Improving backend structure and scalable API design
+- Building more secure authentication and authorization flows
+- Creating accessible, responsive, and polished user interfaces
+- Strengthening testing, debugging, documentation, and deployment practices
+- Turning project ideas into complete, useful products
+
+## 🏆 Profile Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=flat-square" alt="Full-stack development">
+  <img src="https://img.shields.io/badge/Projects-Web%20Apps%20%7C%20APIs%20%7C%20Games-06B6D4?style=flat-square" alt="Project types">
+  <img src="https://img.shields.io/badge/Approach-Learn%20%7C%20Build%20%7C%20Improve-7C3AED?style=flat-square" alt="Development approach">
+</p>
 
 ## 📊 GitHub Activity
 
